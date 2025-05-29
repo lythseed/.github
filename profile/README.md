@@ -4,3 +4,10 @@ Whether you want to add new features, change the design,
 or use the project as a starting point for something new, 
 you are encouraged to do so. However, the original project is
 closed to external contributions.
+
+The release date for the first version is still being decided. 
+Any technical issue experienced with the initial release will 
+be fixed in future updates.
+
+Feedback is accepted on functionality, performance, and other issues, 
+but not on coding style or best practices.
