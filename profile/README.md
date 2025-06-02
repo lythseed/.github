@@ -9,5 +9,8 @@ The release date for the first version is still being decided.
 Any technical issue experienced with the initial release will 
 be fixed in future updates.
 
+Once our project reaches a milestone of 144 users, we plan to 
+make the source code openly available under the BSD License.
+
 Feedback is accepted on functionality, performance, and other issues, 
 but not on coding style or best practices.
